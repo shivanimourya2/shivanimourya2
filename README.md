@@ -1,7 +1,12 @@
 ## Hi there! I'm Shivani Mourya👋
 
 # 💫 About Me:
-🎓 B.E. Computer Engineering Student | University of Mumbai (2024–2028)  <br>💻 Aspiring Full Stack Developer  <br>🌱 Currently learning MERN Stack & AI/ML  <br>📍 Mumbai, India  <br><br>🚀 Passionate about building real-world web applications and improving problem-solving skills through Data Structures & Algorithms.<br><br>📫 Email: shivanimouryaa2@gmail.com
+
+🎓 B.E. Computer Engineering Student | University of Mumbai (2024–2028)<br>
+💻 Full Stack Developer <br>
+🌱 Currently strengthening Data Structures & Algorithms while building scalable full-stack applications<br>
+📍 Mumbai, India<br><br>
+📫 Email: shivanimouryaa2@gmail.com
 
 
 ## 🌐 Socials:
@@ -18,13 +23,17 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ## 🏆 Achievements
-
-- 🌟 Selected as a Contributor in **GirlScript Summer of Code 2026 (GSSoC'26)**
+- 🌟 Contributor — GirlScript Summer of Code 2026 (GSSoC'26)
+- 🚀 Campus Ambassador — E-Cell, IIT Bombay
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shivanimourya2&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=shivanimourya2&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shivanimourya2&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+![](https://github-readme-stats.vercel.app/api?username=shivanimourya2&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400)
+
+![](https://nirzak-streak-stats.vercel.app/?user=shivanimourya2&theme=dark&hide_border=true&cache_seconds=86400)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shivanimourya2&layout=compact&theme=dark&hide_border=true&cache_seconds=86400)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=shivanimourya2&icon=0&color=0)](https://visitcount.itsvg.in)
