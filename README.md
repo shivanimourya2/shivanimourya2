@@ -28,7 +28,7 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=shivanimourya2&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400)
+![](https://github-readme-stats-w69n.vercel.app)
 
 ![](https://nirzak-streak-stats.vercel.app/?user=shivanimourya2&theme=dark&hide_border=true&cache_seconds=86400)
 
