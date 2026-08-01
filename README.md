@@ -1,10 +1,10 @@
-## Hi there! I'm Shivani Mourya👋
+## Hi there! I'm Shivani Mourya
 
 # 💫 About Me:
 
-🎓 B.E. Computer Engineering Student | University of Mumbai (2024–2028)<br>
+🎓 T.E Computer Engineering Student | University of Mumbai (2024–2028)<br>
 💻 Full Stack Developer <br>
-🌱 Currently strengthening Data Structures & Algorithms while building scalable full-stack applications<br>
+🌱 Currently strengthening DSA while building scalable full-stack applications<br>
 📍 Mumbai, India<br><br>
 📫 Email: shivanimouryaa2@gmail.com
 
