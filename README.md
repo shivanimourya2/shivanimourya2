@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 
-🎓 T.E Computer Engineering Student | University of Mumbai (2024–2028)<br>
+🎓 Computer Engineering Student | University of Mumbai (2024–2028)<br>
 💻 Full Stack Developer <br>
 🌱 Currently strengthening DSA while building scalable full-stack applications<br>
 📍 Mumbai, India<br><br>
