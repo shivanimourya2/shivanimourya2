@@ -27,7 +27,7 @@
 
 ![](https://github-readme-stats-w69n.vercel.app/api?username=shivanimourya2&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 
-![](https://nirzak-streak-stats.vercel.app/?user=shivanimourya2&theme=dark&hide_border=true&cache_seconds=86400)
+![GitHub Streak](https://streak-stats.demolab.com/?user=shivanimourya2&theme=dark&hide_border=true&timezone=Asia%2FKolkata)
 
 ![](https://github-readme-stats-w69n.vercel.app/api/top-langs/?username=shivanimourya2&layout=compact&theme=dark&hide_border=true)
 
