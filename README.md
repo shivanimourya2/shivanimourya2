@@ -22,9 +22,6 @@
 ![NodeJS](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-## 🏆 Achievements
-- 🌟 Contributor — GirlScript Summer of Code 2026 (GSSoC'26)
-- 🚀 Campus Ambassador — E-Cell, IIT Bombay
 
 # 📊 GitHub Stats:
 
