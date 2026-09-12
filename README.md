@@ -12,7 +12,8 @@
   <img src="https://komarev.com/ghpvc/?username=shivanimourya2&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" />
   <img src="https://img.shields.io/github/followers/shivanimourya2?label=FOLLOWERS&style=for-the-badge&color=0e75b6" />
 </p>
-## 🌐 Socials
+
+# 🌐 Socials
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shivanimouryaa2)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shivanimourya)
