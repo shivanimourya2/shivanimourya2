@@ -1,9 +1,6 @@
-<div align="center">
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B4AE2,50:C45BD6,100:FF8FC7&height=230&section=header&text=Shivani%20Mourya&fontSize=52&fontColor=FFFFFF&desc=Building%20•%20Learning%20•%20Creating%20•%20Contributing&descSize=18&descAlignY=68&descColor=FFFFFF&animation=fadeIn&fontAlignY=38" width="100%" alt="Shivani Mourya" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B4AE2,50:C45BD6,100:FF8FC7&height=230&section=header&text=Shivani%20Mourya&fontSize=52&fontColor=FFFFFF&desc=Building%20•%20Learning%20•%20Creating%20•%20Contributing&descSize=18&descAlignY=68&descColor=FFFFFF&animation=fadeIn&fontAlignY=38" width="100%" alt="Shivani Mourya" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=900&color=C77DFF&center=true&vCenter=true&width=700&height=50&lines=💻+I'm+a+Developer.;⚙️+Software+Engineer.;🤖+I'm+an+AI+Enthusiast." alt="Developer | Software Engineer | AI Enthusiast" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=900&color=C77DFF&center=true&vCenter=true&width=700&lines=💻+I'm+a+Developer.;⚙️+Software+Engineer.;🤖+I'm+an+AI+Enthusiast." alt="I'm a Developer, Software Engineer, I'm an AI Enthusiast" />
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=shivanimourya2&label=PROFILE%20VIEWS&color=F15BB5&style=for-the-badge" alt="Profile views" />
@@ -66,7 +63,7 @@
 
 ## 🥇 Contribution Space Mission 🚀
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivanimourya2&bg_color=0D1117&color=C77DFF&line=FF8FC7&point=FFFFFF&area_color=9B5DE5&title_color=C77DFF&hide_border=true&area=true" width="100%" alt="Contribution graph" />
+<img src="https://ghchart.rshah.org/C77DFF/shivanimourya2" width="95%" alt="Contribution graph" />
 
 </div>
 
