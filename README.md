@@ -1,19 +1,10 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B4AE2,50:C45BD6,100:FF8FC7&height=230&section=header&text=Shivani%20Mourya&fontSize=52&fontColor=FFFFFF&desc=Building%20•%20Learning%20•%20Creating%20•%20Contributing&descSize=18&descAlignY=68&descColor=FFFFFF&animation=fadeIn&fontAlignY=38" width="100%" alt="Shivani Mourya" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=900&color=C77DFF&center=true&vCenter=true&width=700&lines=💻+I'm+a+Developer.;⚙️+Software+Engineer.;🤖+I'm+an+AI+Enthusiast." alt="I'm a Developer, Software Engineer, I'm an AI Enthusiast" />
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=shivanimourya2&label=PROFILE%20VIEWS&color=F15BB5&style=for-the-badge" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/shivanimourya2?label=FOLLOWERS&style=for-the-badge&color=9B5DE5&labelColor=7B4AE2" alt="Followers" />
-<img src="https://img.shields.io/github/stars/shivanimourya2?label=TOTAL%20STARS&style=for-the-badge&color=C77DFF&labelColor=7B4AE2" alt="Total stars" />
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
-
-<div align="center">
+<div align="center"> 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B4AE2,50:C45BD6,100:FF8FC7&height=230&section=header&text=Shivani%20Mourya&fontSize=52&fontColor=FFFFFF&desc=Building%20•%20Learning%20•%20Creating%20•%20Contributing&descSize=18&descAlignY=68&descColor=FFFFFF&animation=fadeIn&fontAlignY=38" width="100%" alt="Shivani Mourya" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=900&color=C77DFF&center=true&vCenter=true&width=700&lines=I%27m+a+Developer.;Software+Engineer.;I%27m+an+AI+Enthusiast." alt="I'm a Developer, Software Engineer, I'm an AI Enthusiast" /> <br/><br/> 
+<img src="https://komarev.com/ghpvc/?username=shivanimourya2&label=PROFILE%20VIEWS&color=F15BB5&style=for-the-badge" alt="Profile views" /> 
+<img src="https://img.shields.io/github/followers/shivanimourya2?label=FOLLOWERS&style=for-the-badge&color=9B5DE5&labelColor=7B4AE2" alt="Followers" /> 
+<img src="https://img.shields.io/github/stars/shivanimourya2?label=TOTAL%20STARS&style=for-the-badge&color=C77DFF&labelColor=7B4AE2" alt="Total stars" /> </div> <br/> 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" /> <div align="center">
 
 ## 💻 Tech Stack
 
