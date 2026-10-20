@@ -1,0 +1,35 @@
+name: Generate contribution graph
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [".github/scripts/contrib-graph.js"]
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Generate SVG
+        run: node .github/scripts/contrib-graph.js
+        env:
+          GH_USER: shivanimourya2
+          GH_TOKEN: ${{ secrets.GH_PAT || secrets.GITHUB_TOKEN }}
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/contribution-graph.svg
+          git diff --cached --quiet || (git commit -m "chore: update contribution graph" && git push)

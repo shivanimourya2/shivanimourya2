@@ -63,9 +63,9 @@
 
 <div align="center">
 
-## 🥇 Contributions 🚀
+## 📈 GitHub Contribution Activity
 
-<img src="https://ghchart.rshah.org/39D353/shivanimourya2" width="95%" alt="Contribution graph" />
+<img src="./assets/contribution-graph.svg" width="100%" alt="GitHub Contribution Activity Graph" />
 
 </div>
 
